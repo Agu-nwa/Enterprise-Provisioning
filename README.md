@@ -1,5 +1,15 @@
 # Enterprise-Provisioning
 
+
+## 📂 : Scenerio
+
+### ; Task
+```text
+Your organization has hired a new Cloud Engineer who requires administrative access to Linux servers.
+
+Provision a secure administrative account while ensuring the principle of least privilege is maintained.
+```
+
 ## ⚙️ : Create User
 
 ### : Command
